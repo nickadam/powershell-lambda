@@ -1,5 +1,5 @@
 # powershell-lambda
-A different way to run PowerShell scripts in AWS lambda
+Run PowerShell scripts in AWS lambda using a container image
 
 AWS does not provide a container image for PowerShell lambdas, [823](https://github.com/aws/aws-lambda-dotnet/issues/823).
 This project provides a starting point to run PowerShell scripts from a container image.
